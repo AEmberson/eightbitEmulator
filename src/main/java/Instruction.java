@@ -2,5 +2,12 @@ public enum  Instruction {
   BRK,
   LDA,
   ADC,
-  STA
+  STA,
+  LDX,
+  INX,
+  CMY,
+  BNE,
+  STAX,
+  DEY,
+  LDY
 }
